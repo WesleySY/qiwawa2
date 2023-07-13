@@ -13,6 +13,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
 <body>
     <?php
     echo "Hello Worrld";
+    echo 1;
     ?>
 </body>
 
