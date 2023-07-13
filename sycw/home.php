@@ -15,6 +15,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             .li1{
                 display:inline;
                 background-color:grey;
+                text-align: center;
             }
         </style>
     </head>
